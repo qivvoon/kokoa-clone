@@ -18,13 +18,14 @@
 .friends-screen__channel {
   margin-top: 18px;
   border-top: var(--main-border);
-  padding-top: 10px;
+  padding-top: 25px;
 }
 .friends-screen__channel-header {
-  margin-bottom: 15px;
+  margin-bottom: 40px;
   display: flex;
   justify-content: space-between;
   color: var(--gray);
+  font-size: 22px;
 }
 .fa-bookmark {
   margin-right: 10px;
@@ -32,7 +33,7 @@
 .friends-screen__channel .friends-scroll {
   overflow-y: scroll;
   width: auto;
-  height: 300px;
+  height: 250px;
 }
 @keyframes hideSplashScreen {
   from {
