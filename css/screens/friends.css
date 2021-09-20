@@ -16,12 +16,12 @@
   padding: 0px var(--horizontal-space);
 }
 .friends-screen__channel {
-  margin-top: 25px;
+  margin-top: 22px;
   border-top: var(--main-border);
-  padding-top: 15px;
+  padding-top: 12px;
 }
 .friends-screen__channel-header {
-  margin-bottom: 25px;
+  margin-bottom: 22px;
   display: flex;
   justify-content: space-between;
   color: var(--gray);
