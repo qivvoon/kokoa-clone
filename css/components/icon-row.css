@@ -13,10 +13,10 @@
   align-items: center;
 }
 .icon-row__icon i {
-  font-size: 30px;
+  font-size: 28px;
 }
 .icon-row__icon span {
-  margin-top: 18px;
+  margin-top: 15px;
 }
 .icon-row__onebox,
 .icon-row__twobox {

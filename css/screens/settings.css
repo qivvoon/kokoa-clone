@@ -1,22 +1,22 @@
 .settings__setting {
-  padding: 18px 0px;
+  padding: 15px 0px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  font-size: 18px;
+  font-size: 15px;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 .settings__setting i {
   opacity: 0.8;
-  margin-right: 19px;
-  font-size: 18px;
+  margin-right: 17px;
+  font-size: 15px;
 }
 .settings__setting-column:last-child {
   color: var(--gray);
 }
 .settings__setting-last {
-  padding-bottom: 35px;
-  margin-bottom: 15px;
+  padding-bottom: 31px;
+  margin-bottom: 11px;
   border-color: var(--gray);
 }
 .settings__setting-upgrade {
@@ -25,5 +25,5 @@
   padding: 4px 7px;
   border-radius: 50%;
   font-size: 10px;
-  margin-left: 3px;
+  margin-left: 2px;
 }
