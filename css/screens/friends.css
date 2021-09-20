@@ -32,7 +32,7 @@
 .friends-screen__channel .friends-scroll {
   overflow-y: scroll;
   width: auto;
-  height: 330px;
+  height: 300px;
 }
 @keyframes hideSplashScreen {
   from {
