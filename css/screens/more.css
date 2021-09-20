@@ -10,9 +10,6 @@
 .more-suggestions__title {
   margin-bottom: 30px;
 }
-.fa-exclamation-circle {
-  color: tomato;
-}
 .more-suggestions__icons {
   display: flex;
 }
@@ -35,3 +32,4 @@
 .more-suggestions__icon-img i {
   font-size: 26px;
   color: white;
+}
