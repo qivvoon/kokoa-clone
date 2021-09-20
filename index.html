@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Welcome to Freinds-Talk</title>
   </head>
-  <body>
+  <body class="login-body">
     <div class="status-bar">
       <div class="status-bar__column">
         <span>No Service</span>
@@ -29,6 +29,10 @@
     </div>
 
     <header class="welcome-header">
+      <img
+        class="welcome-header_img"
+        src="https://cdnweb01.wikitree.co.kr/webdata/editor/202011/19/img_20201119170336_3b8d362b.webp"
+      />
       <h1 class="welcome-header__title">Welcome to Freinds-Talk!</h1>
       <p class="welcome-header__text">
         If you have a Freinds Account, log in with your E-mail or phone number
@@ -39,9 +43,14 @@
       <input type="text" placeholder="E-mail or phone number" />
       <input type="password" placeholder="password" />
       <input type="submit" value="Log in" />
-      <input type="submit" value="Create Account" />
+      <!-- <input type="submit" value="Create Account" /> -->
       <a href="#">Find Friens Account or Password</a>
     </form>
+
+    <div id="no-mobile">
+      <span>Your screen is too big ㅠㅠ</span>
+      <span>Please make the screen smaller :)</span>
+    </div>
 
     <script
       src="https://kit.fontawesome.com/6478f529f2.js"
